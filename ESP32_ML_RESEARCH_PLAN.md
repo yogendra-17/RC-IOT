@@ -290,5 +290,3 @@ The research validates that **ESP32 with camera is viable for on-device ML** in 
 3. ✅ Edge computing reduces data transfer by 80-90%
 4. ✅ Cost-effective alternative to phone-only solution
 5. ⚠️ Use ESP-IDF for production (better than Arduino IDE)
-
-**Recommended approach:** Start with ESP32-CAM as primary brain, optionally add phone for advanced features later.
